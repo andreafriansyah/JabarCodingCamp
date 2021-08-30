@@ -1,0 +1,5 @@
+Pengalaman Programming saya dimulai saat saya kelas 10 smk, disitu saya masuk jurusan RPL dan baru mengenal programming.
+Saya diajarkan hal hal dasar programming seperti C++ dll. Saat kelas 11 saya melakukan kerja praktek dan disitu saya baru
+belajar mengenai PHP. Dan saat kelas 12 saya mulai mempelajari pemrogaman android menggunakan eclipse dan mulai belajar tentang database.
+Setelah lulus saya bekerja di sebuah start up dan mulai belajar laravel, javascript, jquery, dan ajax. Disitu saya
+menjadi seorang front end developer.
